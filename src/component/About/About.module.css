@@ -1,0 +1,65 @@
+.abo{
+  background-color: #1abc9c;
+  height: 100%;
+  width: 100%;
+
+}
+ .word{
+    font-size: 3rem;
+    line-height: 2.5rem;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+font-weight:bolder;
+width: 100%;
+text-align: center;
+padding-top: 5%; 
+
+} 
+.lineicon{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 25%;
+    margin: auto;
+}
+.line{
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #fff;
+    border-radius: 1rem;
+    border-color: #fff;
+    margin: auto;
+}
+.icon{
+    font-size: 35px;
+    color: #fff;
+}
+.par{
+    width: 99%;
+    text-align: left;
+    font-size: 1.17rem;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 0;
+    margin-left: 0;
+    line-height: 2rem;
+}
+.pa{
+    width: 110%;
+    text-align: left;
+    font-size: 1.17rem;
+    font-weight: 400;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 0;
+    margin-left: 0;
+    line-height: 2rem;
+}
+.link{
+    padding: 20px 90px;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid #fff;
+}
